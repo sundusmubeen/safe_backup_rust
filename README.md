@@ -17,7 +17,7 @@ A secure file backup utility implemented in Rust with memory safety guarantees.
    curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 2. Clone repository
    ```sh
-   git clone https://github.com/[yourusername]/safe_backup_rust.git
+   git clone https://github.com/sundusmubeen/safe_backup_rust
    cd safe_backup_rust
 3. Build release version
    ```sh
